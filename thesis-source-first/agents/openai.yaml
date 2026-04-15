@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Source First"
+  short_description: "Verify sources before writing thesis content"
+  default_prompt: "Use $thesis-source-first to draft or revise this thesis section after verifying at least one real source first."
