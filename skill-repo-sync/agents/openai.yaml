@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Repo Sync"
+  short_description: "Sync the shared git repo for local Codex skills"
+  default_prompt: "Use $skill-repo-sync to check for updates or sync the shared skills git repository."
